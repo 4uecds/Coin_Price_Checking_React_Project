@@ -47,7 +47,7 @@ useEffect(()=>{
        </div>
        <div className="coin-info">
         <ul>
-          <li>Crypto Market Bank</li>
+          <li>Crypto Market Rank</li>
           <li>{coinData.market_cap_rank}</li>
         </ul>
         <ul>
