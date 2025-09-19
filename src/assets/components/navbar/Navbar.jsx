@@ -42,8 +42,8 @@ const Navbar = () => {
     <div className='navbar'> 
         <Link to={'/'}>
        
-       <img  src={logo} alt="" className='logo' />
-      </Link>
+        <h5>Imran Haider</h5>
+        </Link>
        <ul>
         <Link to={'/'}>
         <li >Home</li>
